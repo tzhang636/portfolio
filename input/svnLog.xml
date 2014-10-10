@@ -1,0 +1,1187 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="6107">
+<author>zhang156</author>
+<date>2011-10-11T04:51:26.418484Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/input/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/input/svn_list.xml</path>
+</paths>
+<msg>This is a test to see if the commit message for 3.1 works.</msg>
+</logentry>
+<logentry
+   revision="6106">
+<author>zhang156</author>
+<date>2011-10-11T04:44:01.245189Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/File.php</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/input/svn_log.xml</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment3.1/notes.txt</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment3.1/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/Version.php</path>
+<path
+   kind="file"
+   copyfrom-path="/zhang156/Assignment3.1/Misc.php"
+   copyfrom-rev="6079"
+   action="A">/zhang156/Assignment3.1/misc/Misc.php</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment3.1/Misc.php</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/Parser.php</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment3.1/misc</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment3.1/Project.php</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment3.1/input</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/input/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/output/output.xml</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment3.1/output</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment3.1/svn_list.xml</path>
+<path
+   kind="file"
+   copyfrom-path="/zhang156/Assignment3.1/notes.txt"
+   copyfrom-rev="6079"
+   action="A">/zhang156/Assignment3.1/misc/notes.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6079">
+<author>zhang156</author>
+<date>2011-10-09T19:24:29.834596Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/.settings/org.eclipse.php.core.prefs</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/File.php</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/notes.txt</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/.buildpath</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/Version.php</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/Project.php</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment3.1/.settings</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/Misc.php</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment3.1/Parser.php</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6078">
+<author>zhang156</author>
+<date>2011-10-09T19:23:47.868267Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment3.1</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="5079">
+<author>zhang156</author>
+<date>2011-09-28T06:45:17.159809Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment2.1/src/MapData.json</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment2.1/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment2.1/src/Parse.py</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment2.1/src/ParseTest.py</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment2.1/.pydevproject</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5078">
+<author>zhang156</author>
+<date>2011-09-28T06:43:44.268382Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment2.1</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="5077">
+<author>zhang156</author>
+<date>2011-09-28T06:43:14.742738Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zhang156/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5075">
+<author>zhang156</author>
+<date>2011-09-28T06:42:01.126571Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="4124">
+<author>zhang156</author>
+<date>2011-09-22T01:41:57.568620Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/megamaze.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/input/maze0.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze2.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/Manual Test Plan.odt</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/Manual_Test_Plan.pdf</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/colorado.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverView.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/megamaze.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3987">
+<author>zhang156</author>
+<date>2011-09-21T18:49:10.091703Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarVars.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverController.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3954">
+<author>zhang156</author>
+<date>2011-09-21T15:11:49.086136Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarVars.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverController.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3675">
+<author>zhang156</author>
+<date>2011-09-19T02:01:14.372704Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarVars.java</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze0_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze1_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/mountains_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/redwoodpoint_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze2_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/southtahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/mountainview_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/input/colorado.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverView.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/input/maze0.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/tahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverController.java</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/colorado_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/pyramidpeak_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/input/mountainview.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3641">
+<author>zhang156</author>
+<date>2011-09-18T19:50:29.948428Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze0_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze1_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/mountains_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/redwoodpoint_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze2_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/tahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/colorado_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/southtahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/mountainview_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/pyramidpeak_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarAlgorithm.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3638">
+<author>zhang156</author>
+<date>2011-09-18T19:33:29.697883Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarVars.java</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze0_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze1_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/mountains_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/redwoodpoint_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/maze2_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/southtahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/mountainview_solved.bmp</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   copyfrom-path="/zhang156/GUI/src/gui/SplitPaneView.java"
+   copyfrom-rev="3628"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverView.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/tahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverController.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/colorado_solved.bmp</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment1.3/output/pyramidpeak_solved.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3628">
+<author>zhang156</author>
+<date>2011-09-18T14:07:28.632022Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/GUI/src/gui/SplitPaneView.java</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="3627">
+<author>zhang156</author>
+<date>2011-09-18T14:07:09.394986Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/PQComparator.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze1_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/mountains_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/redwoodpoint_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/bin</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/mountainview_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/tahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AStarSquare.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/redwoodpoint.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/pyramidpeak_solved.bmp</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/output</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/mountainview.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AStarAlgorithmTest2.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AStarVars.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze0_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/maze2_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/tahoe.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/southtahoe_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/colorado.bmp</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/.settings</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/pyramidpeak.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/MazeSolverTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/ImageReadWrite.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/ImageReadWriteTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/maze0.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/mountains.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/maze1.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/maze2.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/output/colorado_solved.bmp</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/src/mazeSolver/GUIExample.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/input/southtahoe.bmp</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3/input</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.3/.classpath</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="3614">
+<author>zhang156</author>
+<date>2011-09-18T00:23:39.510758Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/GUI/src/gui/SplitPaneView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3613">
+<author>zhang156</author>
+<date>2011-09-18T00:21:55.650895Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/GUI/src/gui/SplitPaneDemo.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/GUI/src/gui/SplitPaneView.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3611">
+<author>zhang156</author>
+<date>2011-09-18T00:11:46.785283Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/GUI/src/gui</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/zhang156/GUI/.settings</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/src/gui/SplitPaneDemo.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/.classpath</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/src/gui/SplitPaneDemo2.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/GUI/src/gui/SplitPaneView.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/GUI/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3610">
+<author>zhang156</author>
+<date>2011-09-18T00:11:34.762097Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/GUI</path>
+</paths>
+<msg>Share project "GUI" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/zhang156"</msg>
+</logentry>
+<logentry
+   revision="3609">
+<author>zhang156</author>
+<date>2011-09-17T22:16:47.017105Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.3</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="3206">
+<author>zhang156</author>
+<date>2011-09-15T05:30:31.724842Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithmTest2.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3154">
+<author>zhang156</author>
+<date>2011-09-15T04:26:43.142067Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverTest.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AllTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2962">
+<author>zhang156</author>
+<date>2011-09-14T19:14:22.024846Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.2/.classpath</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithmTest2.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2928">
+<author>zhang156</author>
+<date>2011-09-14T15:01:04.778064Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/PQComparator.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2/.settings</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithm.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverTest.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/ImageReadWrite.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/ImageReadWriteTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarSquare.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/.classpath</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2927">
+<author>zhang156</author>
+<date>2011-09-14T14:57:54.788650Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zhang156/Assignment1.2/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2926">
+<author>zhang156</author>
+<date>2011-09-14T14:40:38.581182Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/Algorithm.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/PQComparator.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/ImageReadWrite.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/ImageReadWriteTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarSquare.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.2/src/mazeSolver/AStarAlgorithm.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2924">
+<author>zhang156</author>
+<date>2011-09-14T14:35:59.178844Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2487">
+<author>zhang156</author>
+<date>2011-09-08T22:26:40.208926Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/MazeSolver.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2483">
+<author>zhang156</author>
+<date>2011-09-08T22:04:52.146277Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/ImageReadWriteTest.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/AStar.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/Square.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1899">
+<author>zhang156</author>
+<date>2011-09-08T01:31:24.407321Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/ImageReadWrite.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/AStar.java</path>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment1.1/src/mazeSolver/AStarTest.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1482">
+<author>zhang156</author>
+<date>2011-09-06T00:01:04.253399Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/MazeSolver.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/MazeSolverTest.java</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/ImageReadWrite.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/ImageReadWriteTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/AStar.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/AStarTest.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/MazeSolverMain.java</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.1/.settings</path>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment1.1/src/mazeSolver/Algorithm.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1479">
+<author>zhang156</author>
+<date>2011-09-05T23:47:30.131737Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="1478">
+<author>zhang156</author>
+<date>2011-09-05T23:47:03.938974Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zhang156/grocery</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="392">
+<author>zhang156</author>
+<date>2011-08-29T02:21:07.614633Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="391">
+<author>zhang156</author>
+<date>2011-08-29T02:10:34.877041Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/zhang156/grocery/list2.txt</path>
+<path
+   kind="dir"
+   action="A">/zhang156/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="390">
+<author>zhang156</author>
+<date>2011-08-29T01:05:01.085007Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="389">
+<author>zhang156</author>
+<date>2011-08-29T01:04:51.615351Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment0/cs241_mp3.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="388">
+<author>zhang156</author>
+<date>2011-08-29T01:01:29.412545Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zhang156/Assignment0/cs241_mp3.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="387">
+<author>zhang156</author>
+<date>2011-08-29T00:57:04.152163Z</date>
+<paths>
+<path
+   kind="file"
+   copyfrom-path="/zhang156/Assignment0/Copy of mp3.c"
+   copyfrom-rev="386"
+   action="A">/zhang156/Assignment0/cs241_mp3.c</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment0/Copy of mp3.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="386">
+<author>zhang156</author>
+<date>2011-08-29T00:56:06.843979Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/Copy of mp3.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="385">
+<author>zhang156</author>
+<date>2011-08-29T00:50:18.557367Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zhang156/Assignment0/cs241mp3</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="384">
+<author>zhang156</author>
+<date>2011-08-29T00:49:42.227220Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/cs241mp3/temp.c</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="383">
+<author>zhang156</author>
+<date>2011-08-29T00:48:18.957301Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment0/cs241mp3</path>
+</paths>
+<msg>Initial import.</msg>
+</logentry>
+<logentry
+   revision="305">
+<author>zhang156</author>
+<date>2011-08-26T01:43:52.807694Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment0/.classpath</path>
+<path
+   kind="file"
+   action="D">/zhang156/Assignment0/.project</path>
+</paths>
+<msg>Removing .classpath 303 and .project 303 from SVN</msg>
+</logentry>
+<logentry
+   revision="304">
+<author>zhang156</author>
+<date>2011-08-26T01:39:45.569942Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zhang156/Assignment0/src</path>
+</paths>
+<msg>Removing sample from SVN</msg>
+</logentry>
+<logentry
+   revision="303">
+<author>zhang156</author>
+<date>2011-08-26T01:28:37.944947Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/.classpath</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/.project</path>
+</paths>
+<msg>This is just a test.</msg>
+</logentry>
+<logentry
+   revision="302">
+<author>zhang156</author>
+<date>2011-08-26T01:28:16.132136Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment0/src</path>
+<path
+   kind="file"
+   action="A">/zhang156/Assignment0/src/sample.java</path>
+</paths>
+<msg>This is just a test. </msg>
+</logentry>
+<logentry
+   revision="301">
+<author>zhang156</author>
+<date>2011-08-26T01:21:04.067651Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156/Assignment0</path>
+</paths>
+<msg>This is a test.</msg>
+</logentry>
+<logentry
+   revision="135">
+<author>root</author>
+<date>2011-08-18T15:38:19.241143Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zhang156</path>
+</paths>
+<msg>created directory zhang156</msg>
+</logentry>
+</log>

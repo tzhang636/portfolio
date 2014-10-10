@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<SVNDump>
+  <project>
+    <title>Assignment0</title>
+    <date>2011</date>
+    <version>1.1</version>
+    <summary>initial commit</summary>
+    <files>
+      <file>
+        <size>333</size>
+        <doctype>code</doctype>
+        <path>/zhang156/Assignment0/file.php</path>
+        <versions>
+          <version>
+            <number>0</number>
+            <author>zhang156</author>
+            <info>initial commit</info>
+            <date>2011</date>
+          </version>
+          <version>
+            <number>1</number>
+            <author>zhang156</author>
+            <info>changes to file.php</info>
+            <date>2012</date>
+          </version>
+        </versions>
+      </file>
+    </files>
+  </project>
+</SVNDump>

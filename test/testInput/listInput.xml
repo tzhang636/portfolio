@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<lists>
+  <list path="">
+    <entry kind="dir">
+      <name>Assignment0</name>
+      <size></size>
+      <commit revision="1">
+        <author>zhang156</author>
+        <date>2011</date>
+      </commit>
+    </entry>
+    <entry kind="file">
+      <name>Assignment0/file.php</name>
+      <size>333</size>
+      <commit revision="1">
+        <author>zhang156</author>
+        <date>2012</date>
+      </commit>
+    </entry>
+  </list>
+</lists>

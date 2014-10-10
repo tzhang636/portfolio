@@ -1,0 +1,23 @@
+Title (title of each project, eg. Assignment 1.1, Assignment 1.2, etc) - svn_list
+Date (most recent commit) - svn_list
+Version (starts 1.0 for first commit, then increments by 0.1,
+ note that any changes to a file inside the project counts as a commit, eg. 11 commits = 2.1) 
+ - keep count using svn_log
+ 
+Summary (most recent commit msg) - svn_log
+
+Per file:
+Size - svn_list
+Doctype
+Path - svn_log
+Per Version:
+	Number	- svn_log
+	Author - svn_log
+	Info - svn_log
+	Date - svn_log
+	
+Objects:
+Project (an array of Projects in parser - key: assignment name, val: project object)
+File (an array of files per project - key: filename(path), val: file object)
+Version(an array of versions per file - key: 0-x, version object)
+

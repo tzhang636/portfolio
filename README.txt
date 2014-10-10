@@ -1,0 +1,1 @@
+Access my website on cpanel by simply clicking on Invoker.php. That should run the portfolio of my webpage.

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<log>
+  <logentry revision="0">
+    <author>zhang156</author>
+    <date>2011</date>
+    <paths>
+      <path kind="file" action="A">/zhang156/Assignment0/file.php</path>
+      <path kind="dir" action="A">/zhang156/Assignment0</path>
+    </paths>
+    <msg>initial commit</msg>
+  </logentry>
+  <logentry revision="1">
+    <author>zhang156</author>
+    <date>2012</date>
+    <paths>
+      <path kind="file" action="M">/zhang156/Assignment0/file.php</path>
+    </paths>
+    <msg>changes to file.php</msg>
+  </logentry>
+</log>
